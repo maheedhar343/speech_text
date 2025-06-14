@@ -13,4 +13,5 @@ Feel free to explore, fork, and share your feedback. A special thanks to the ama
 Check out the screenshot below to see it in action! 🎤 ➡️ 📄
 
 #Flask #Python #SpeechRecognition #OpenSource #DeveloperJourney
-![image](![image](https://github.com/user-attachments/assets/1cb841cb-58f1-48d4-8629-e5d093e8953c))
+![image](https://github.com/user-attachments/assets/bcf42100-9a1a-4478-87d8-76664445f77a)
+
